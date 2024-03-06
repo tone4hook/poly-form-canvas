@@ -2,6 +2,8 @@
 
 ## Example of using JSON Forms with Canvas Object
 
+[View on Github Pages](https://tone4hook.github.io/poly-form-canvas/)
+
 ### Get Started
 
 - `git clone`
