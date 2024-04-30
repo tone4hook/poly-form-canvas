@@ -8,6 +8,7 @@
 + Each item is an object with two required properties `x` and `y`, both of which are numbers.
 
 ```
+// JSON Form Schema
 {
   "properties": {
     "corners": {
@@ -32,6 +33,7 @@
 + The `showSortButtons` option is set to `false`, which means that the sort buttons will not be displayed for this control.
 
 ```
+// UI Schema
 {
   "type": "VerticalLayout",
   "elements": [
